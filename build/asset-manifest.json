@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rjain000/NewsRocket.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/rjain000/NewsRocket.git/static/js/main.a6e67137.chunk.js",
+    "main.js.map": "/rjain000/NewsRocket.git/static/js/main.a6e67137.chunk.js.map",
+    "runtime-main.js": "/rjain000/NewsRocket.git/static/js/runtime-main.855bc763.js",
+    "runtime-main.js.map": "/rjain000/NewsRocket.git/static/js/runtime-main.855bc763.js.map",
+    "static/js/2.00665e0a.chunk.js": "/rjain000/NewsRocket.git/static/js/2.00665e0a.chunk.js",
+    "static/js/2.00665e0a.chunk.js.map": "/rjain000/NewsRocket.git/static/js/2.00665e0a.chunk.js.map",
+    "static/js/3.6b08f812.chunk.js": "/rjain000/NewsRocket.git/static/js/3.6b08f812.chunk.js",
+    "static/js/3.6b08f812.chunk.js.map": "/rjain000/NewsRocket.git/static/js/3.6b08f812.chunk.js.map",
+    "index.html": "/rjain000/NewsRocket.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/rjain000/NewsRocket.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.00665e0a.chunk.js.LICENSE.txt": "/rjain000/NewsRocket.git/static/js/2.00665e0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.855bc763.js",
+    "static/js/2.00665e0a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a6e67137.chunk.js"
+  ]
+}
